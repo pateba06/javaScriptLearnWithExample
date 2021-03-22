@@ -16,6 +16,7 @@ Pop method
 var myArray = [10,20,"hello",];
 myArray.pop();
 myArray;
+
 ![image](https://user-images.githubusercontent.com/34305933/111948992-4e767880-8ab6-11eb-8fff-519cbb556c76.png)
 
 Unshift Method
@@ -23,6 +24,7 @@ Unshift Method
 var myArray = [10,20,"hello",];
 myArray.unshift(333);
 myArray;
+
 ![image](https://user-images.githubusercontent.com/34305933/111949058-6c43dd80-8ab6-11eb-840d-987121675639.png)
 
 Shift Method
@@ -30,5 +32,6 @@ Shift Method
 var myArray = [10,20,"hello",];
 myArray.shift();
 myArray;
+
 ![image](https://user-images.githubusercontent.com/34305933/111949123-88477f00-8ab6-11eb-9570-5bab4e2faade.png)
  
