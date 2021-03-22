@@ -8,7 +8,8 @@
   console.log(number2);
 
   ```
-  `operators`
+  `operators` Try Below codes to see how the operator performs
+  
     ```js 
   let number =5.5 +2;
   console.log(number);
