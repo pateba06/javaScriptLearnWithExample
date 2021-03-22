@@ -1,7 +1,7 @@
 `Data types`
 1. String Data Type: `The string data type is used to represent textual data (i.e. sequences of characters). Strings are created using single or double quotes surrounding one or more characters`
 
-![image](https://user-images.githubusercontent.com/34305933/111957893-fa25c580-8ac2-11eb-8556-99bf62e62d61.png)
+    ![image](https://user-images.githubusercontent.com/34305933/111957893-fa25c580-8ac2-11eb-8556-99bf62e62d61.png)
 
 2. Number Data Type:`The number data type is used to represent positive or negative numbers with or without decimal place, or numbers written using exponential notation e.g. 1.5e-4 (equivalent to 1.5x10-4).`
 
