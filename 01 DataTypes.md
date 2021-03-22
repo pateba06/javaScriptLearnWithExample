@@ -1,4 +1,4 @@
-                                            DATA TYPES
+                                                         DATA TYPES
 
 1. String Data Type: `The string data type is used to represent textual data (i.e. sequences of characters). Strings are created using single or double quotes surrounding one or more characters`
 
@@ -69,7 +69,9 @@
   alert(a) // Output: undefined
   alert(b) // Output: Hello World!
   ```
-                                         Numbers Examples
+                                                   
+                                                   
+                                                   Numbers Examples
   
   ```js 
   let number =34;
@@ -135,7 +137,7 @@
   console.log(percent);
   ```
                            
-                           Rules For Creating Variables
+                                            Rules For Creating Variables
   
 Rule 1: You can not define variable more then once.
 
