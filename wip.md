@@ -1,7 +1,7 @@
 
-                                `Booleans : It only returns true or false`
+                                Booleans : It only returns true or false
 
-                       `Static Boolean`
+`Static Boolean`
 
 ```js
 let test1 =false;
@@ -9,7 +9,7 @@ console.log(test1);
 //it will return false.
 ```
 
-                      `Boolean using Comparision Operators`
+`Boolean using Comparision Operators`
 
 ```js
 let age =32;
