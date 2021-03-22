@@ -4,6 +4,7 @@ Please follow steps to understand how to run Java script code on FireFox using d
 ```js ```
 
 **Push/Pop/Shift/Unshift Methods of Array**
+
 PushMethod
 ```js 
 var myArray = [10,20,"hello",];
