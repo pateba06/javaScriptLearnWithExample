@@ -3,7 +3,7 @@ I recommend using Firefox editor.
 Please follow steps to understand how to run Java script code on FireFox using developer option https://www.youtube.com/watch?v=0os_XYHrHWc
 ```js ```
 
-**Push/Pop/Shift/Unshift Methods of Array**
+`Push/Pop/Shift/Unshift Methods of Array`
 
 `PushMethod` -- It will add an object at the end of Array
 ```js 
