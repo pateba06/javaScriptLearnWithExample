@@ -32,5 +32,21 @@ myArray;
 
 ```
 
- 
- 
+ `forEach` method of Array
+ It execute function for each array elements. So if we have 3 elements it will run three times.
+ ```js 
+var myArray = [ 10,20,"Hello"];
+var myFunction = function(){
+  console.log("For an element")
+}
+myArray.forEach(myFunction);
+```
+
+```js 
+var myArray = [ 10,20,"Hello"];
+var myFunction = function(item){
+  console.log("For an element" + item)
+}
+myArray.forEach(myFunction);
+```
+
